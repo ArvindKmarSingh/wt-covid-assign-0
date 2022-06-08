@@ -1,0 +1,9 @@
+com\covid\repository\SlotRepository.class
+META-INF\MANIFEST.MF
+com\covid\api\CovidApi.class
+META-INF\maven\com.covid\wt-covid-assign-0\pom.xml
+com\covid\WtCovidAssign0Application.class
+META-INF\maven\com.covid\wt-covid-assign-0\pom.properties
+com\covid\service\SlotService.class
+com\covid\calc\Calculator.class
+com\covid\entity\Slot.class

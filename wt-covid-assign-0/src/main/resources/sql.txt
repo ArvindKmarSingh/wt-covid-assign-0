@@ -1,0 +1,3 @@
+table creation:
+create table slot (srno int, date date, status tinyint);
+
